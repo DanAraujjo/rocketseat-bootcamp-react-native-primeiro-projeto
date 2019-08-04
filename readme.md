@@ -73,7 +73,7 @@ yarn add react-native-vector-icons
 react-native link react-native-vector-icons
 ```
 
-###Outras dicas
+### Outras dicas
 
 > Para consumir api
 
