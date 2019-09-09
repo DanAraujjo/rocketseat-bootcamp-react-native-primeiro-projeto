@@ -47,8 +47,11 @@ Crie o arquivo [src/config/ReactotronConfig.js](/src/config/ReactotronConfig.js)
 Execute o comado
 
 ```
-yarn add react-navigation react-native-gesture-handler
-react-native link react-native-gesture-handler
+yarn add react-navigation react-native-gesture-handler react-native-reanimated
+
+cd ios
+pod install
+cd ..
 ```
 
 > Para Android tem mais um passo, verifique em https://kmagiera.github.io/react-native-gesture-handler/docs/getting-started.html
