@@ -47,7 +47,7 @@ Crie o arquivo [src/config/ReactotronConfig.js](/src/config/ReactotronConfig.js)
 Execute o comado
 
 ```
-yarn add react-navigation react-native-gesture-handler react-native-reanimated
+yarn add react-native-reanimated react-native-gesture-handler react-native-screens
 
 cd ios
 pod install
